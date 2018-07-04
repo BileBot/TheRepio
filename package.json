@@ -1,0 +1,14 @@
+{
+  "name": "cooldan",
+  "version": "1.0.0",
+  "description": "Created by DanDev, this Source Code is Licensed and is not free. Some of this code is Open Sourced but found to be by DanDev it is liable as Copyright and can result in a DMCA problem. Please remove this from your Computer now.",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DanDev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
